@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Jichao Li</title>
+    <link>/publication_types/2/</link>
+    <description>Recent content in 2 on Jichao Li</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 11 Aug 2018 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Surrogate-based aerodynamic shape optimization with the active subspace method</title>
+      <link>/publication/asm_sbo/</link>
+      <pubDate>Sat, 11 Aug 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/asm_sbo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-based Approach for Fast Airfoil Analysis and Optimization</title>
+      <link>/publication/airfoil_aiaaj/</link>
+      <pubDate>Mon, 06 Aug 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/airfoil_aiaaj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adjoint-Based Two-Step Optimization Method Using Proper Orthogonal Decomposition and Domain Decomposition</title>
+      <link>/publication/two_step_aiaaj/</link>
+      <pubDate>Wed, 31 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/two_step_aiaaj/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

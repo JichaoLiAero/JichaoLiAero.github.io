@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Jichao Li</title>
+    <link>/publication_types/1/</link>
+    <description>Recent content in 1 on Jichao Li</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 08 Jan 2018 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A data-based approach for fast airfoil analysis and optimization</title>
+      <link>/publication/conference_2018a/</link>
+      <pubDate>Mon, 08 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/conference_2018a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adjoint Approach based on Reduced-order Model for Steady PDE Systems</title>
+      <link>/publication/conference_2016/</link>
+      <pubDate>Mon, 13 Jun 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/conference_2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
